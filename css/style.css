@@ -1,0 +1,16 @@
+
+.done{
+    text-decoration: line-through;
+}
+
+div.my-container-list{
+    background-color: #bebebe;
+}
+
+div.my-container-list ul{
+    list-style-type: none;
+}
+
+div.my-container-list ul li{
+    border-bottom: black solid 2px;
+}
