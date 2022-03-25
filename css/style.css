@@ -4,7 +4,8 @@
 }
 
 div.my-container-list{
-    background-color: #bebebe;
+    background-color: lightblue;
+    border: black solid 5px;
 }
 
 div.my-container-list ul{
@@ -13,4 +14,13 @@ div.my-container-list ul{
 
 div.my-container-list ul li{
     border-bottom: black solid 2px;
+    font-size: 20px;
+}
+
+i:hover{
+    color: red;
+}
+
+span:hover{
+    color: white;
 }
